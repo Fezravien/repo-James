@@ -1,2 +1,2 @@
-Text edited on feature 2 branch
+Text edited on feature 2 branch added few lines by master James.
 
