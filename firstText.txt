@@ -1,2 +1,3 @@
-Text edited on feature 2 branch added few lines by master James.
+Text edited on feature 2 branch
 
+I'm Fezz
